@@ -7,7 +7,7 @@ LeoLezuryさんのマルウェアHydrogen.exeのPeacefulバージョンを作成
 このウイルスおよびマルウェアは、教育目的で作成されたものです。
 実行する際は必ず自己責任でお願いします。
 二次配布をする際は必ず警告してください。
-作成者である私は一切責任を負いません。
+作成者は一切責任を負いません。
 
 LeoLezury created a Peaceful version of the malware Hydrogen.exe.
 
